@@ -7,6 +7,7 @@ By Jason Davis · [Demo]
 
 PURPOSE: Build a good webpage quickly to develop personal sites, blogs and simple projects.
 
-STEP ONE Add index.html
+STEP ONE Develop a wire frame
+STEP TWO Add index.html
 
 
