@@ -8,9 +8,9 @@ By Jason Davis · [Demo]
 
 PURPOSE: Demonstrate my ability to write code  
 
-Objective: Improve my code writing skills  
+OBJECTIVE: Improve my code writing skills  
 
-Goal: Develop a profile page  
+GOAL: Develop a profile page  
 
 Contents:  
 STEP ONE Develop a wire frame  
