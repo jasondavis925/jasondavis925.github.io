@@ -1,6 +1,7 @@
 MY PROFILE  
+
 jasondavis925.github.v0  
-MY PROFILE  
+
 This is my attempt to develop a website.  
 
 By Jason Davis · [Demo]  
